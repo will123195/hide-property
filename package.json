@@ -1,6 +1,6 @@
 {
   "name": "hide-property",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hides a property",
   "main": "hide-property.js",
   "scripts": {

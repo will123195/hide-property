@@ -1,0 +1,22 @@
+{
+  "name": "hide-property",
+  "version": "0.0.0",
+  "description": "Hides a property",
+  "main": "hide-property.js",
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/will123195/hide-property.git"
+  },
+  "author": "will123195",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will123195/hide-property/issues"
+  },
+  "homepage": "https://github.com/will123195/hide-property",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
